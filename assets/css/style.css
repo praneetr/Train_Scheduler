@@ -1,0 +1,12 @@
+.jumbotron, h3 {
+background-color: black;
+color: ;
+text-align: center;
+border-color: red;
+border-style: dashed;
+}
+
+body {
+background-color: black;
+color: white;
+}
